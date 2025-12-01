@@ -34,7 +34,7 @@ CSS Tricks
 
 Frontend Mentor Community
 
-![Screenshot of my project](./design/screenshot.jpg)
+![Screenshot of my project]![Image](https://github.com/user-attachments/assets/ee646c48-72ca-45e5-a45e-d703bc5228ff)
 
 
 👤 Author
