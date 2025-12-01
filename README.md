@@ -39,7 +39,7 @@ Frontend Mentor Community
 
 Frontend Mentor: gpriya67
 
-GitHub: your GitHub link
+GitHub: [your GitHub link](https://github.com/gpriya67/Preview-card.git)
 
 
 
