@@ -14,3 +14,32 @@ Styled the card using Flexbox, custom properties, shadows, and hover/focus state
 4. Responsiveness
 
 Ensured the card scales smoothly on all device sizes.
+
+🧠 What I Learned
+
+Better understanding of small card components
+
+How to recreate designs using CSS spacing, shadows, and fonts
+
+Importance of hover/focus visuals for accessibility
+
+How to use mobile-first CSS efficiently
+
+
+📚 Useful Resources
+
+MDN Web Docs
+
+CSS Tricks
+
+Frontend Mentor Community
+
+
+👤 Author
+
+Frontend Mentor: gpriya67
+
+GitHub: your GitHub link
+
+
+
