@@ -34,6 +34,8 @@ CSS Tricks
 
 Frontend Mentor Community
 
+![Screenshot of my project](./design/screenshot.jpg)
+
 
 👤 Author
 
